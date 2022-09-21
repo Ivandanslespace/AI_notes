@@ -1,0 +1,18 @@
+Account,Trader,Counterparty,Ticker,Quantity,Value,Category
+MM714466,Steven Wang,Goldman Sachs,AAPL,100,35000,Stock
+MM714466,Steven Wang,Goldman Sachs,NDAQ200619P,200,10000,Option
+MM714466,Steven Wang,Goldman Sachs,UGEMVPU,200,20000,Fund
+MM737550,Steven Wang,Goldman Sachs,AAPL,100,35000,Stock
+MM146832,Sherry Zhang,Goldman Sachs,AAPL,200,70000,Stock
+MM218895,Sherry Zhang,Goldman Sachs,AAPL,200,70000,Stock
+MM218895,Sherry Zhang,Goldman Sachs,NDAQ200619P,200,10000,Option
+MM412290,Lily Song,Goldman Sachs,UGEMVPU,200,20000,Fund
+MM740150,Lily Song,Goldman Sachs,AAPL,100,35000,Stock
+MM141962,Bryan Hu,Morgan Stanley,AAPL,200,70000,Stock
+MM163416,Bryan Hu,Morgan Stanley,AAPL,100,35000,Stock
+MM239344,Bryan Hu,Morgan Stanley,UGEMVPU,100,10000,Fund
+MM239344,Bryan Hu,Morgan Stanley,NDAQ200619P,200,10000,Option
+MM307599,Nicolas Liu,Morgan Stanley,UGEMVPU,300,30000,Fund
+MM688981,Nicolas Liu,Morgan Stanley,AAPL,500,175000,Stock
+MM729833,Nicolas Liu,Morgan Stanley,AAPL,200,70000,Stock
+MM729833,Nicolas Liu,Morgan Stanley,LG30TRUU,200,15000,Bond
